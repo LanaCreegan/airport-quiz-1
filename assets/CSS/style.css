@@ -30,8 +30,20 @@ h1, h2 {
     align-items: center;
 }
 
+/* Home Buttons */
+.play {
+    height: 5rem;
+    width: 10rem;
+    font-size: 2rem;
+    border-radius: 5px;
+}
 
-
+.m-btn {
+    height: 5rem;
+    width: 10rem;
+    font-size: 2rem;
+    border-radius: 5px;
+}
 
 /* Modal */
 
