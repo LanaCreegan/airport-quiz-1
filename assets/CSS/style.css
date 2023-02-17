@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&family=Roboto:wght@400&display=swap');
 
+
+/* set margin and padding to 0, border to none */
 * {
     margin: 0;
     padding: 0;
@@ -11,8 +13,29 @@ body {
     font-weight: 300;
 }
 
+/* heading */
+
 h1, h2 {
     font-family: Raleway, sans-serif;
     text-align: center;
     font-size: 2.5rem;
 }
+
+/* Home section */
+
+.home {
+    height: 40rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+/* Modal */
+
+/* Quiz section */
+
+/* Question section */
+
