@@ -58,9 +58,16 @@ h1, h2 {
     border-radius: 5px;
 }
 
-/* Modal */
+ /* Modal */
 
-
+  .modal-content {
+    margin: 21% auto; 
+    padding: 40px;
+    border: 1px solid #888;
+    width: 40%; 
+    background-color: antiquewhite;
+  }
+ 
 
  /* Quiz container */
 
