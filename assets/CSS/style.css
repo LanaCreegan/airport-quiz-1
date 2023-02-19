@@ -61,10 +61,22 @@ h1, h2 {
 /* Modal */
 
 
-/* Question and score counter */
+ /* Quiz container */
 
 
-/* Quiz section */
+/*Question and score counter*/ 
+.score-container {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 5px;
+    top: 10%;
+    
+
+}
+
+
 
 /* Question section */
 
